@@ -2,6 +2,7 @@
 // Standard Template Library (STL)
 #include <stack>
 #include <iostream>
+
 using namespace std;
 
 int main() {
